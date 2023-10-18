@@ -1,13 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrei
 ========================================================================================================================================
 
+https://media.licdn.com/dms/image/D4D16AQHD2TRKCnTabg/profile-displaybackgroundimage-shrink_350_1400/0/1696584477328?e=1703116800&v=beta&t=Z_41NqBPubALX5Wpos62uKVrsFA3bdoLqoouakMzC6Q
+
 Web Developer
 -------------
 
 I'm a Web Developer
 
-* 🌍  I'm based in Romania 🇷🇴
-* ⚡  Graphic Design & Photography
+* 🌍  Based in Romania 🇷🇴
+* ⚡  Web Development, Web Design, Graphic Design & Photography
 
 ### Skills
 

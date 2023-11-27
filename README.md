@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">👋 Hi i'm Andrei</h1>
 
 ###
 
@@ -54,9 +54,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###

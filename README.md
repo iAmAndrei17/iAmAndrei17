@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🌍 Based in Romania 🇷🇴<br>⚡  Web Development, Web Design, Graphic Design & Photography</p>
+<p align="center">🌍 Based in Romania 🇷🇴<br>⚡  Web Development, Web Design, Mobile App Design, Graphic Design & Photography</p>
 
 ###
 
